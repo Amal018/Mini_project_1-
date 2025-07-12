@@ -1,0 +1,614 @@
+Movie_Title,Rating,Vote_Count,Runtime,Genre
+The Unholy Trinity,6.1,448,1h 35m,Adventure
+Gladiator II,6.5,252K,2h 28m,Adventure
+Dune: Part Two,8.5,642K,2h 46m,Adventure
+Venom: The Last Dance,6.0,129K,1h 50m,Adventure
+Twisters,6.5,175K,2h 2m,Adventure
+Deadpool & Wolverine,7.5,507K,2h 8m,Adventure
+Kraven the Hunter,5.5,63K,2h 7m,Adventure
+Flow,7.9,84K,1h 25m,Adventure
+Mufasa: The Lion King,6.6,71K,1h 58m,Adventure
+Moana 2,6.6,109K,1h 40m,Adventure
+Furiosa: A Mad Max Saga,7.5,291K,2h 28m,Adventure
+Freaky Tales,6.2,7.2K,1h 47m,Adventure
+Cells at Work!,6.7,776,1h 49m,Adventure
+Sonic the Hedgehog 3,6.9,65K,1h 50m,Adventure
+The Count of Monte-Cristo,7.6,37K,2h 58m,Adventure
+Paddington in Peru,6.7,26K,1h 46m,Adventure
+Borderlands,4.7,50K,1h 41m,Adventure
+Transformers One,7.6,54K,1h 44m,Adventure
+Godzilla x Kong: The New Empire,6.0,124K,1h 55m,Adventure
+Ghostbusters: Frozen Empire,6.1,95K,1h 55m,Adventure
+Inside Out 2,7.5,222K,1h 36m,Adventure
+The Return,6.2,10K,1h 56m,Adventure
+Despicable Me 4,6.2,68K,1h 34m,Adventure
+Kingdom of the Planet of the Apes,6.8,155K,2h 25m,Adventure
+Damsel,6.1,111K,1h 50m,Adventure
+Bad Boys: Ride or Die,6.5,102K,1h 55m,Adventure
+Red One,6.3,142K,2h 3m,Adventure
+The Lord of the Rings: The War of the Rohirrim,6.3,33K,2h 14m,Adventure
+Kung Fu Panda 4,6.3,70K,1h 34m,Adventure
+Survive,4.6,3.1K,1h 30m,Adventure
+Attack on Titan the Movie: The Last Attack,9.2,17K,2h 25m,Adventure
+The Day the Earth Blew Up: A Looney Tunes Movie,6.9,5.4K,1h 31m,Adventure
+Uglies,4.7,34K,1h 40m,Adventure
+Harold and the Purple Crayon,5.7,8.8K,1h 30m,Adventure
+Atlas,5.6,57K,1h 58m,Adventure
+Spaceman,5.7,44K,1h 47m,Adventure
+Monster Summer,5.7,4.1K,1h 37m,Adventure
+The Garfield Movie,5.7,25K,1h 41m,Adventure
+Solo Leveling: ReAwakening,8.8,14K,2h 1m,Adventure
+Spellbound,5.5,7.9K,1h 49m,Adventure
+Kalki 2898 AD,7.0,68K,3h,Adventure
+Arthur the King,7.0,35K,1h 47m,Adventure
+Sketch,8.2,70,1h 32m,Adventure
+Wallace & Gromit: Vengeance Most Fowl,7.5,36K,1h 22m,Adventure
+Rebel Moon - Part Two: The Scargiver,5.3,60K,2h 2m,Adventure
+Sunlight,7.6,32,1h 36m,Adventure
+Lost on a Mountain in Maine,6.1,1.5K,1h 38m,Adventure
+My Penguin Friend,6.8,5.7K,1h 37m,Adventure
+Family Pack,5.5,9.6K,1h 34m,Adventure
+Orion and the Dark,6.3,18K,1h 33m,Adventure
+No Way Up,4.6,11K,1h 30m,Adventure
+The Goat Life,7.1,48K,2h 53m,Adventure
+Crayon Shin-chan: Our Dinosaur Diary,6.6,603,1h 46m,Adventure
+Return to Wickensburg,4.7,76,1h 28m,Adventure
+Descendants: The Rise of Red,4.7,7.3K,1h 31m,Adventure
+Unspeakable: Beyond the Wall of Sleep,4.8,113,1h 30m,Adventure
+Sasquatch Sunset,5.4,5.6K,1h 28m,Adventure
+Justice League: Crisis on Infinite Earths - Part One,6.2,8.8K,1h 33m,Adventure
+Saint-Exupéry,5.4,500,1h 38m,Adventure
+Dragonkeeper,5.7,1.8K,1h 38m,Adventure
+The Great Lillian Hall,7.3,2.1K,1h 50m,Adventure
+Justice League: Crisis on Infinite Earths - Part Three,6.1,4.8K,1h 34m,Adventure
+Winner,6.5,2.7K,1h 43m,Adventure
+My Hero Academia: You're Next,7.0,2.6K,1h 50m,Adventure
+Devara Part 1,6.0,21K,2h 56m,Adventure
+Manjummel Boys,8.2,28K,2h 15m,Adventure
+Doraemon the Movie: Nobita's Earth Symphony,6.6,1.6K,1h 55m,Adventure
+Overlord: The Sacred Kingdom,6.9,1.4K,2h 15m,Adventure
+River of Blood,5.0,2K,1h 26m,Adventure
+Bookworm,6.0,2.1K,1h 43m,Adventure
+That Christmas,6.8,17K,1h 31m,Adventure
+Escape from the 21st Century,6.4,1K,1h 38m,Adventure
+Badland Hunters,5.9,13K,1h 47m,Adventure
+The Best Christmas Pageant Ever,6.8,6.3K,1h 39m,Adventure
+Something in the Water,4.1,5K,1h 26m,Adventure
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8.8K,1h 44m,Adventure
+Kanguva,4.5,15K,2h 32m,Adventure
+Son's Will,7.4,1.1K,2h 28m,Adventure
+The Wages of Fear,4.6,4.2K,1h 44m,Adventure
+Captain Miller,6.9,11K,2h 37m,Adventure
+The Last Redemption,6.8,5.2K,2h 2m,Adventure
+A.R.M,7.1,8.9K,2h 30m,Adventure
+Hanu Man,7.7,29K,2h 38m,Adventure
+The Twisters,2.6,396,1h 26m,Adventure
+Hitpig,5.1,1.1K,1h 26m,Adventure
+Escape,6.4,2.2K,1h 34m,Adventure
+Anaconda,4.9,668,1h 24m,Adventure
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5.6K,1h 34m,Adventure
+Bade Miyan Chote Miyan,3.7,39K,2h 43m,Adventure
+The Courier,6.0,4.6K,1h 41m,Adventure
+Ultraman: Rising,6.9,6.6K,1h 57m,Adventure
+Night of the Zoopocalypse,6.1,913,1h 31m,Adventure
+Thangalaan,6.5,6.8K,2h 36m,Adventure
+Kalvan,5.6,991,2h 22m,Adventure
+Sixty Minutes,5.7,5.3K,1h 28m,Adventure
+Buffalo Kids,6.6,772,1h 33m,Adventure
+Megamind vs. The Doom Syndicate,2.5,5.7K,1h 23m,Adventure
+Bambi: A Tale of Life in the Woods,5.6,247,1h 18m,Adventure
+A Legend,4.7,1K,2h 9m,Adventure
+200% Wolf,5.9,1.3K,1h 38m,Adventure
+Cult Killer,4.8,2.9K,1h 45m,Adventure
+The Price of Money: A Largo Winch Adventure,5.1,1.3K,1h 40m,Adventure
+Empire Queen: The Golden Age of Magic,3.2,237,2h 28m,Adventure
+Dongeng Sang Kancil,6.6,220,1h 39m,Adventure
+Operation: Raqqa,5.6,300,1h 47m,Adventure
+Saving Bikini Bottom: The Sandy Cheeks Movie,3.7,4K,1h 22m,Adventure
+Ayalaan,5.9,4K,2h 35m,Adventure
+This Too Shall Pass,8.4,19,1h 45m,Adventure
+Robin and the Hoods,4.3,540,1h 40m,Adventure
+Thelma the Unicorn,5.7,3K,1h 33m,Adventure
+No Chains No Masters,6.3,658,1h 38m,Adventure
+Seeds,5.0,224,1h 22m,Adventure
+Diving Into the Darkness,8.9,91,1h 36m,Adventure
+Ghost Island,7.3,51,1h 35m,Adventure
+The Firing Squad,5.1,5.1K,1h 33m,Adventure
+Going Viral,8.3,301,1h 30m,Adventure
+The Backrooms,8.2,15,1h 3m,Adventure
+The Keepers of the 5 Kingdoms,4.0,231,1h 49m,Adventure
+Guest from the Future,6.0,1.3K,2h 21m,Adventure
+My Oni Girl,6.0,1.9K,1h 52m,Adventure
+My Freaky Family,6.1,424,1h 26m,Adventure
+Devil's Knight,5.3,963,1h 30m,Adventure
+Never Look Away,7.1,287,1h 25m,Adventure
+Birds Flying East,5.8,604,1h 40m,Adventure
+Bull Shark 3,3.5,92,1h 16m,Adventure
+Dragon Ball Z Kai,8.6,87,1h 22m,Adventure
+Trifole,7.5,59,1h 40m,Adventure
+Next to Us,4.8,229,2h 5m,Adventure
+Oscar Wilde About America,4.6,35,1h 38m,Adventure
+Gladiators,4.5,111,1h 35m,Adventure
+"I, the Executioner",6.3,2K,1h 58m,Adventure
+The Tiger's Apprentice,5.7,2.2K,1h 24m,Adventure
+Woody Woodpecker Goes to Camp,4.5,2.7K,1h 40m,Adventure
+Eat the Night,6.0,563,1h 46m,Adventure
+The Empire,5.2,1.3K,1h 50m,Adventure
+Bureau 749,3.9,579,2h 3m,Adventure
+Man and Witch: The Dance of a Thousand Steps,5.5,351,1h 34m,Adventure
+Angels Fallen: Warriors of Peace,4.8,5.8K,1h 43m,Adventure
+Golden Kamuy,6.3,2.6K,2h 7m,Adventure
+Rebellious,6.1,236,1h 34m,Adventure
+Noah's Ark,4.2,701,1h 36m,Adventure
+A Sloth Story,5.6,234,1h 30m,Adventure
+Operation Blood Hunt,3.4,514,1h 33m,Adventure
+The Kingdom,7.0,147,2h 13m,Adventure
+Autumn and the Black Jaguar,5.6,1.1K,1h 40m,Adventure
+Kaizen,7.1,738,2h 40m,Adventure
+Oculus,6.0,15,1h 53m,Adventure
+Gaami,6.3,2.1K,2h 27m,Adventure
+The Mountain,6.6,168,1h 29m,Adventure
+Space Ranger,3.5,85,None,Adventure
+Witch Hunter,4.8,26,1h 20m,Adventure
+Dalia and the Red Book,5.9,148,1h 47m,Adventure
+Poklad,4.4,49,1h 40m,Adventure
+School of Magical Animals 3,5.7,347,1h 45m,Adventure
+Bionic,4.3,1.8K,1h 50m,Adventure
+Roadkill,3.7,694,1h 30m,Adventure
+War of the Worlds: Extinction,3.0,215,1h 24m,Adventure
+Seven Seas Seven Hills,8.6,95,1h 30m,Adventure
+No Time to Spy: A Loud House Movie,6.3,497,1h 21m,Adventure
+Lumina,2.1,703,1h 53m,Adventure
+Mobile Suit Gundam SEED Freedom,6.6,980,2h 4m,Adventure
+At Her Feet,7.3,54,1h 40m,Adventure
+Barroz: Guardian of Treasures,3.4,1K,2h 35m,Adventure
+The Last Ronin,4.9,593,1h 55m,Adventure
+Big City Greens the Movie: Spacecation,6.2,581,1h 23m,Adventure
+Panda Bear in Africa,5.5,373,1h 24m,Adventure
+Diplodocus,6.3,196,1h 33m,Adventure
+The Magician's Raincoat,5.0,128,None,Adventure
+Chhota Bheem and the Curse of Damyaan,4.8,2.3K,2h 25m,Adventure
+Gracie and Pedro: Pets to the Rescue,5.0,289,1h 27m,Adventure
+Storm Crashers,6.2,579,1h 28m,Adventure
+Chuck Billy and the Marvelous Guava Tree,7.4,1.2K,1h 30m,Adventure
+Pimpinero: Blood and Oil,5.6,574,2h 1m,Adventure
+Five Friends,6.7,958,1h 52m,Adventure
+Sam and Colby: The Legends of the Paranormal,4.8,314,1h 38m,Adventure
+Un lío de millones,5.3,264,1h 31m,Adventure
+The Last of Us: Immunity,4.4,31,1h 4m,Adventure
+Naa Saami Ranga,4.5,1.2K,2h 30m,Adventure
+The Lost Tiger,7.9,52,1h 30m,Adventure
+WWII: Operation Phoenix,5.7,100,1h 46m,Adventure
+Alpha.,6.9,272,1h 40m,Adventure
+The Casagrandes Movie,5.6,692,1h 29m,Adventure
+Road Wars: Max Fury,2.0,367,1h 23m,Adventure
+Life with Quincy 3,None,None,1h 13m,Adventure
+Meanwhile on Earth,6.0,952,1h 29m,Adventure
+Niko: Beyond the Northern Lights,6.1,353,1h 26m,Adventure
+Treasure Trackers,5.7,171,1h 32m,Adventure
+I Heart Robots,4.6,2.4K,1h 16m,Adventure
+Rally Caps,5.5,143,1h 40m,Adventure
+The Goat,5.9,387,1h 31m,Adventure
+Dünya Varmis,6.6,68,1h 40m,Adventure
+Now or Never!,2.2,17K,None,Adventure
+Major Grom: The Game,6.1,1.9K,2h 48m,Adventure
+Spiders on a Plane,5.0,388,1h 18m,Adventure
+All for One,1.4,679,1h 37m,Adventure
+Earthquake Underground,3.3,203,1h 23m,Adventure
+One Million Babes BC,2.2,88,1h 15m,Adventure
+The Epidemic,5.9,71,1h 35m,Adventure
+76 Days Adrift,None,None,1h 45m,Adventure
+The Waves of Madness,5.8,97,1h 8m,Adventure
+Taklee Genesis x Worlds Collide,5.4,428,2h 26m,Adventure
+Odio el verano,5.1,616,1h 43m,Adventure
+Z-Mom,4.9,47,1h 30m,Adventure
+Little Emma,5.4,133,1h 46m,Adventure
+Appu,8.1,189,1h 32m,Adventure
+The Big Trip 3: Race Around the World,5.6,67,1h 25m,Adventure
+The Traveller,5.2,213,2h 14m,Adventure
+The Adventures of Jurassic Pet: Return to the Wild,5.4,80,1h 30m,Adventure
+Si Juki the Movie: Harta Pulau Monyet,6.1,131,1h 47m,Adventure
+"Maya, donne-moi un titre",6.3,63,1h 1m,Adventure
+Formed Police Unit,4.7,1.4K,2h,Adventure
+Marianengraben,7.3,93,1h 27m,Adventure
+Its Name Was Mormo,3.6,128,1h 33m,Adventure
+Buddy,3.8,358,2h 17m,Adventure
+Frankenstein Theater: The Magic Sword,4.1,24,1h 22m,Adventure
+Rocky Road to Berlin,7.2,1.5K,1h 44m,Adventure
+I Left My Heart in Colombia,8.4,426,None,Adventure
+Elli and the Ghostly Ghost Train,5.1,109,1h 26m,Adventure
+Stinky Summer,5.5,57,1h 30m,Adventure
+Tanning Zone,None,None,None,Adventure
+My Fathers' Daughter,6.5,83,1h 18m,Adventure
+Shrek 5: The Contract - A Fan Made Film,7.4,22,1h 24m,Adventure
+Spirit Riser,6.6,37,1h 38m,Adventure
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,5.8,10,55m,Adventure
+The Forest,6.3,49,1h 17m,Adventure
+Mong Vuot,5.0,173,1h 36m,Adventure
+Planetquake,3.0,319,1h 25m,Adventure
+The Slave and the Sorcerer,6.6,44,1h 26m,Adventure
+Fox & Hare Save the Forest,5.9,217,1h 11m,Adventure
+Ahl Al Kahf,5.2,289,2h,Adventure
+Bremenskie muzykanty,4.6,697,1h 55m,Adventure
+Sentinelese,None,None,1h 30m,Adventure
+Tokusou Sentai Dekaranger 20th: Fireball Booster,7.1,38,50m,Adventure
+Kodaikanal,9.2,71,2h 53m,Adventure
+Death Game,6.3,26,1h 28m,Adventure
+Samaya bolshaya luna,2.4,142,1h 45m,Adventure
+Era Oculta,None,None,1h 20m,Adventure
+Teenz,4.4,867,2h 2m,Adventure
+Ice Maiden,8.5,85,1h 30m,Adventure
+Vertical,5.2,148,1h 51m,Adventure
+Amazon Bullseye,5.2,222,1h 53m,Adventure
+Jurassic Triangle,2.4,288,1h 24m,Adventure
+Güzel Bir Rüya,4.6,49,1h 19m,Adventure
+The Phantom Warrior,2.4,556,1h 59m,Adventure
+Fuuto PI: Portrait of Kamen Rider Skull,7.3,50,1h 22m,Adventure
+Tapori Nayak,8.6,19,None,Adventure
+Transformers Prime: Galavatron's Revenge,4.5,16,1h 44m,Adventure
+Gepack,6.6,372,1h 37m,Adventure
+The Blinkless,6.9,16,59m,Adventure
+Uttarakaanda,None,None,None,Adventure
+"Silex and the City, le film",4.9,54,1h 17m,Adventure
+Friendly Fire,6.1,69,1h 45m,Adventure
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,7.1,41,1h 30m,Adventure
+Jathara,7.8,1.1K,2h 9m,Adventure
+The Epic of Gilgamesh,None,None,1h 19m,Adventure
+Powder Pup,6.0,80,1h 29m,Adventure
+Luigi's Mansion,5.9,20,1h,Adventure
+Dead Dead Demon's Dededede Destruction,7.1,150,2h,Adventure
+Nanoshark,5.4,24,None,Adventure
+Kvitebjørn,5.9,78,1h 25m,Adventure
+Water Park,None,None,25m,Adventure
+Yolki 11,4.7,179,1h 32m,Adventure
+Dikkie Dik en de Verdwenen Knuffel,7.2,132,1h 2m,Adventure
+The Secret of Pin-Up Island,7.4,97,1h 47m,Adventure
+Cândido,6.3,64,1h 39m,Adventure
+Daye: Seret ahl el Daye,7.6,20,1h 44m,Adventure
+Finding Christmas,5.9,15,None,Adventure
+Surge of Power: Where There's Smoke,5.9,14,1h 8m,Adventure
+Memes & Nightmares,5.7,92,1h 21m,Adventure
+Stranded Pearl,6.0,27,1h 30m,Adventure
+Captain Avispa,5.7,181,1h 36m,Adventure
+Game On,2.6,358,1h 25m,Adventure
+LasseMajas detektivbyrå - Maskoten som försvann,5.9,65,1h 30m,Adventure
+Game of Death: The Six Doors to Hell,None,None,2h 25m,Adventure
+Igrisca ne damo!,6.6,34,1h 19m,Adventure
+Ognivo,5.5,237,1h 45m,Adventure
+The Star City Murders,4.1,146,1h 19m,Adventure
+The Umbrella Fairy,5.7,61,1h 35m,Adventure
+Iron Dusk,5.1,21,None,Adventure
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,5.9,11,1h 14m,Adventure
+Yaren Leylek,5.2,38,1h 35m,Adventure
+Six Nine Five (695),7.0,707,2h 17m,Adventure
+Die Chaosschwestern und Pinguin Paul,5.6,74,1h 40m,Adventure
+Rocky and Bullwinkle,8.6,17,1h 40m,Adventure
+A Trip Elsewhere,5.4,113,1h 33m,Adventure
+Tulang Belulang Tulang,7.1,50,1h 35m,Adventure
+Oro Negro,None,None,None,Adventure
+The Eye of the Salamander,8.4,21,1h 21m,Adventure
+Duffle Bag Boy,6.8,60,None,Adventure
+Zak & Wowo: The Legend of Lendarys,5.7,103,1h 25m,Adventure
+Cazatesoros,6.5,30,1h 46m,Adventure
+Kiyma: Orman Kanunlari,3.9,42,1h 21m,Adventure
+Triple 7: They Said It Couldn't Be Done,8.5,14,1h 37m,Adventure
+Mountain Boy,8.0,29,1h 33m,Adventure
+"Fallen Leaves, Broken Lighters",7.7,8,1h 36m,Adventure
+Arctic Hollow,2.3,184,1h 10m,Adventure
+Permafrost,5.7,115,1h 20m,Adventure
+Old Wild Mob,None,None,None,Adventure
+The Trail,7.8,38,1h 20m,Adventure
+STEVE (A Minecraft Movie),6.9,12,1h 1m,Adventure
+De Legende van Familie Vos,5.6,60,1h 21m,Adventure
+Elephant Steps,6.9,41,None,Adventure
+Warrior Awang and Master Tok Gajah,4.6,484,1h 58m,Adventure
+Letuchiy korabl,3.8,306,1h 40m,Adventure
+Champions of the Golden Valley,9.2,78,1h 21m,Adventure
+Mama,8.5,7,1h 40m,Adventure
+Kade,6.3,18,1h 32m,Adventure
+Peter Brook's the Mahabharata (8K),None,None,2h 53m,Adventure
+Tay 2: Ebabil Takimi,4.9,46,1h 18m,Adventure
+Il cammino: Viaggio in Calabria,9.7,6,58m,Adventure
+Masha i Medved v kino: Park chudes,7.1,19,58m,Adventure
+Dreams,6.9,9,1h 46m,Adventure
+Lo carga el diablo,7.6,29,1h 43m,Adventure
+Shadows of Betrayal: Chronicles of Ian Blair,7.5,14,1h 5m,Adventure
+Tipppsy,8.1,34,1h 55m,Adventure
+Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,7.4,76,1h 10m,Adventure
+Tri bogatyrya. Ni dnya bez podviga,5.7,78,1h 1m,Adventure
+Askepote,3.5,86,1h 12m,Adventure
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.6,38,1h 11m,Adventure
+Piraty galaktiki Barrakuda,4.6,87,1h 32m,Adventure
+Goodbye Hamdi,6.6,12,1h 25m,Adventure
+Pui Pui Molcar the Movie: Molmax,6.4,10,1h 9m,Adventure
+Banana Boat,5.5,21,1h 18m,Adventure
+Lion King: A Tale of Mufasa,None,None,None,Adventure
+Killer Witches from Outer Space,6.9,81,None,Adventure
+The Yoshi Movie,7.9,14,1h 45m,Adventure
+QAnon Avenue,10,8,57m,Adventure
+Benjamin Bat,7.9,34,1h 15m,Adventure
+Ngesot,4.8,18,1h 27m,Adventure
+Colour Palette,9.4,52,1h 27m,Adventure
+Nature Cat's Nature Movie Special Extraordinaire,7.3,19,53m,Adventure
+Hain,2.9,51,1h 35m,Adventure
+Seeking the King,None,None,None,Adventure
+Tri kota. Zimnie kanikuly,6.5,36,1h 5m,Adventure
+StarGazer: The Need of the Many,5.0,12,47m,Adventure
+Satu - Year of the Rabbit,9.0,60,1h 33m,Adventure
+Håkan Bråkan 2,5.3,143,1h 32m,Adventure
+Dünya Mali: Eksi Bir,7.2,18,2h 13m,Adventure
+This Land of Mine,4.5,38,1h 30m,Adventure
+The Worlds Divide,7.9,40,2h,Adventure
+23 Horas,7.0,21,None,Adventure
+Turma da Mônica Jovem: Reflexos do Medo,2.8,259,1h 28m,Adventure
+Vikaasaparva,8.5,543,2h 14m,Adventure
+Wonderland,6.8,13,2h,Adventure
+Troy the Bharat Putra,5.2,34,2h 14m,Adventure
+Mr. Blue Shirt: The Inspiration,4.8,10,None,Adventure
+Mobile Suit Gundam: Silver Phantom,6.1,13,1h 30m,Adventure
+Road to Dreamland,None,None,1h 30m,Adventure
+Son of the Wolf,3.7,7,1h 22m,Adventure
+Fights Break Sphere 3,5.0,11,1h 21m,Adventure
+One in a million chance,None,None,1h 10m,Adventure
+Ivan Tsarevich i Seryy Volk 6,5.6,101,1h 25m,Adventure
+Orango,7.3,75,1h 34m,Adventure
+Xin Longmen kezhan,2.9,7,1h 13m,Adventure
+Minecraft But I Survive Again in Parkour Civilization,8.8,33,None,Adventure
+Joachim and the Apocalypse,7.5,16,1h 30m,Adventure
+Return,None,None,1h 30m,Adventure
+Chernyy zamok,5.0,59,1h 55m,Adventure
+Petualangan Anak Penangkap Hantu,5.7,28,1h 39m,Adventure
+Hope & Glory,6.6,148,44m,Adventure
+Jaunt,8.7,8,1h 18m,Adventure
+Beyond existence,4.1,23,1h 35m,Adventure
+Kral Sakir: Devler Uyandi,5.3,69,None,Adventure
+Get Close 2,5.7,47,None,Adventure
+Bratya,2.8,131,1h 43m,Adventure
+Moy dikiy drug,6.4,65,1h 40m,Adventure
+Zoloto Umalty,4.9,114,1h 49m,Adventure
+Family Vacation,6.6,6,None,Adventure
+Nothing Unusual,8.8,13,1h 32m,Adventure
+Alex and Mia's Awesome Movie!!,None,None,1h 15m,Adventure
+Baba Yaga spasaet Novyy god,4.4,123,1h 39m,Adventure
+The Cold Father,6.8,19,None,Adventure
+Dogman Territory: Werewolves in the Land Between the Lakes,5.6,35,None,Adventure
+Shanghai Story,8.1,65,1h 11m,Adventure
+I racconti del mare,None,None,1h 29m,Adventure
+Oyunda Kal: Eglence Arenasi,2.5,38,1h 32m,Adventure
+The Apples Gang: The Movie by Wright,None,None,None,Adventure
+Advent,7.5,6,1h 59m,Adventure
+Steal the Naughty List,6.2,127,1h 30m,Adventure
+Mera Number Beess,None,None,1h 49m,Adventure
+Longe da Estrada,6.0,9,1h 8m,Adventure
+The Last Survivor,None,None,1h 55m,Adventure
+The Lost Colony,None,None,None,Adventure
+Mai Martaba,4.8,10,1h 26m,Adventure
+Art Work,None,None,1h 31m,Adventure
+Dead Dead Demon's Dededede Destruction Zenpen,7.1,143,2h,Adventure
+Xibalba Monster,6.7,31,1h 16m,Adventure
+BAM!,7.0,30,1h 20m,Adventure
+Abudeka Is Back,5.4,42,2h,Adventure
+Anytime,8.9,25,1h 2m,Adventure
+Famous Patrick (A Super SpongeBob Fan Movie),8.7,26,53m,Adventure
+Cacophony the Animated Movie,None,None,1h 21m,Adventure
+Lost and Found,None,None,1h,Adventure
+A Christmas Carol,9.8,11,39m,Adventure
+Historia de pastores,5.5,34,1h 20m,Adventure
+Two Breaths,7.9,36,18m,Adventure
+Yasmeen's Element,7.6,21,1h 16m,Adventure
+The Lion Dog,None,None,2h 2m,Adventure
+Spider-Man: Blue,5.8,12,None,Adventure
+Big Water Theory,None,None,1h 23m,Adventure
+Treasure Fellowship,None,None,1h 26m,Adventure
+Heavens: The Boy and His Robot,6.3,22,1h 38m,Adventure
+Tur s Ivanushkami,5.4,164,1h 51m,Adventure
+Mesken (Messuage),7.4,45,1h 42m,Adventure
+Operation Wakaliga: Fate and Blood,6.7,12,1h 6m,Adventure
+Manyunya. Priklyucheniya v Moskve,5.8,112,1h 27m,Adventure
+Bar MoskvaChiki,5.2,105,1h 31m,Adventure
+The Sasqualogist,None,None,1h 29m,Adventure
+Cursed Waters: Creature of Lake Okanagan,None,None,None,Adventure
+The Bigfoot Prophecy,4.8,23,1h 57m,Adventure
+Emu War: A Subtle Examination of the Sheer Caucasity of Colonialism,None,None,None,Adventure
+The Puffins: Arctic Games,None,None,None,Adventure
+Penelope & Everly's Holiday Adventure,None,None,TV-PG,Adventure
+Vasilisa i khraniteli vremeni,3.1,71,1h 38m,Adventure
+The Ballad of Straw Hat Sam,8.5,13,45m,Adventure
+Boom!,8.3,11,1h 30m,Adventure
+Mortadella,8.4,8,1h 30m,Adventure
+The 9th Raider,None,None,1h 45m,Adventure
+Qianhe xiansheng,None,None,1h 22m,Adventure
+Harmonie,None,None,1h 14m,Adventure
+Isle: Alpha One,8.4,7,1h 37m,Adventure
+Superman: Jubilation,None,None,2h 56m,Adventure
+Tales from the Table,None,None,None,Adventure
+Manyunya. Priklyucheniya v derevne,5.9,121,1h 24m,Adventure
+Robo Puffin,None,None,Not Rated,Adventure
+Antarctic Voyage,6.8,6,48m,Adventure
+La bruja del bosque oscuro,None,None,1h 32m,Adventure
+The Last Five Days: The Freak Building,3.7,60,1h 1m,Adventure
+Upanga Kingdom,None,None,1h 55m,Adventure
+Madeline & Silverfrost,None,None,None,Adventure
+Suvorovets 1944,3.4,26,1h 30m,Adventure
+Novogodniy ekspress,7.4,9,47m,Adventure
+The Seed,None,None,1h 40m,Adventure
+The Very Last Christmas,8.6,12,1h 15m,Adventure
+Dans l'ombre de Marlow,None,None,1h 20m,Adventure
+Aliens Uncovered: Buried Cities & Lost Tribes,8.4,12,None,Adventure
+Target Jeremy,None,None,None,Adventure
+Tracing the Divide,8.8,173,1h 24m,Adventure
+The Lost Coast,None,None,None,Adventure
+The Farm,None,None,1h 44m,Adventure
+Dragon Gate Inn,None,None,1h 30m,Adventure
+Whites Only: Ade's Extremist Adventure,6.8,28,1h 5m,Adventure
+Príncipe Lu e a Lenda do Dragão,4.1,29,1h 30m,Adventure
+Dandelion,8.9,9,1h 35m,Adventure
+Wilhelm Gustloff,8.7,9,1h 50m,Adventure
+The Space in Between,None,None,None,Adventure
+Adrian,None,None,None,Adventure
+"Bernadotte, Louise & Napoleon",None,None,1h 14m,Adventure
+Moy lyubimyy chempion,2.3,421,1h 35m,Adventure
+Changle zhen gui shi,None,None,1h 28m,Adventure
+Suchana,8.7,511,1h 30m,Adventure
+Dracu Ra,5.6,41,1h 46m,Adventure
+Wild Boys,None,None,1h 59m,Adventure
+Emma,None,None,1h 30m,Adventure
+Altered,None,None,None,Adventure
+La Familia del Barrio: La Película,4.5,7,None,Adventure
+Abar Arownne Din Ratri,8.0,8,1h 51m,Adventure
+LUDA,7.2,6,1h 26m,Adventure
+Skazochnyy patrul. Shou prodolzhayetsya,7.2,11,1h 5m,Adventure
+Tobia e i colori del mondo,3.7,7,None,Adventure
+Bear Kid: Super Hero,None,None,1h 20m,Adventure
+Knight,None,None,None,Adventure
+Toy Kids: The Movie,None,None,1h 5m,Adventure
+The Kingfish 2,7.9,12,1h 12m,Adventure
+Carjorski Clan: Tale of the Fallen Knight,None,None,None,Adventure
+Unhappy 25 Years Little Brat,None,None,13+,Adventure
+The Artifact,None,None,1h 48m,Adventure
+Novyy god v Beryozovke,7.1,100,1h 34m,Adventure
+The Koopas,None,None,None,Adventure
+Applepictures the Poseidon Legacy,6.4,19,1h 24m,Adventure
+Lapse,None,None,None,Adventure
+Wheelies Inc,None,None,None,Adventure
+Gladiator II: The Art and Making of the Ridley Scott Film,None,None,None,Adventure
+Vandringen,None,None,1h 18m,Adventure
+"Poymay sobaku, esli smozhesh",3.6,38,1h 36m,Adventure
+One Day the Movie,None,None,None,Adventure
+Nijari,None,None,1h 46m,Adventure
+Exipsosi,None,None,None,Adventure
+Stunts I,None,None,None,Adventure
+Moving Targets,None,None,None,Adventure
+The Veyshal Movie,None,None,2h,Adventure
+Chyortov kamen,4.2,22,1h 45m,Adventure
+Tinpot & Yello,None,None,51m,Adventure
+Yan Hu Ji Hua,None,None,1h 30m,Adventure
+Katzie in Marokko,None,None,None,Adventure
+Luccas e Gi em: Dinossauros,3.5,28,1h 31m,Adventure
+Adam i Eva,5.1,95,1h 35m,Adventure
+I am the girl 3 me and my girlfriend,None,None,None,Adventure
+The Puffins & the Magic Portal,7.9,35,None,Adventure
+Analogistan,None,None,1h 25m,Adventure
+The Ghost of Annie Lee,4.8,5,1h 43m,Adventure
+Let's Go! Anpanman: Baikinman and Lulun,6.5,7,1h 4m,Adventure
+Hyacinthe,None,None,None,Adventure
+Gumshoe Jon and the Mystery of the Saucer Men - The Even Better Version,None,None,None,Adventure
+Militant Monster 2024,8.7,29,None,Adventure
+No More Trouble - Cosa rimane di una tempesta,8.6,20,1h 37m,Adventure
+Xiang Xi Gui Shi,None,None,1h 12m,Adventure
+Sehnsucht nach Firdaws,8.7,7,1h 43m,Adventure
+Lakeside's Mission: Impossible,None,None,None,Adventure
+Filmmaker,None,None,1h 37m,Adventure
+Il ricercatore,6.4,9,1h 11m,Adventure
+Sathur: Part1,None,None,None,Adventure
+Spooky Society,None,None,None,Adventure
+Aruanda - Sentido da Vida,None,None,None,Adventure
+V potoke trekh stikhiy,5.2,42,1h 25m,Adventure
+A Babá: Operação Game Over,4.9,11,None,Adventure
+Kage & Celeste,None,None,1h 9m,Adventure
+L'Elisir di Leonardo da Vinci e la Banda del Buffardello,None,None,1h 30m,Adventure
+Jackpot,None,None,None,Adventure
+Dushu,None,None,1h 36m,Adventure
+Turbozavry. God drakona,9.0,44,48m,Adventure
+The Dragon's Tomb,6.8,52,1h 17m,Adventure
+Piri Reis: The Incredible Chart,7.0,27,2h 18m,Adventure
+Kyle and the Last Emerald 2,8.4,9,15m,Adventure
+Pirates & Slaves,5.8,6,53m,Adventure
+A New Dawn,None,None,1h,Adventure
+Le mystère de Waza,None,None,None,Adventure
+Phantom Lights: UAPs of the Forest,None,None,1h 21m,Adventure
+YA - medved,5.0,61,1h 37m,Adventure
+Tayna Chyornoy Ruki,5.7,24,1h 24m,Adventure
+Selebryata,3.8,20,1h 33m,Adventure
+The Stand at Alder Creek,None,None,53m,Adventure
+Dream 1,None,None,None,Adventure
+Florp's Solar Vacation,None,None,2m,Adventure
+Jake Danger and the Sword of the Explorer,None,None,None,Adventure
+Unscripted - In the Heart of Africa,None,None,1h 22m,Adventure
+Captain Toad and the Mystery Mine,None,None,1h 17m,Adventure
+Gostya iz kosmosa,8.7,7,1h 10m,Adventure
+Mukhadrakon,5.3,18,1h 49m,Adventure
+Fat Chance! the Movie,7.6,6,None,Adventure
+Eroi in crestere: Aventura celor 7 ani de acasa,None,None,None,Adventure
+The Grand Stroke,None,None,2h 8m,Adventure
+My Only Relative.,None,None,1h 45m,Adventure
+Pra Sempre,None,None,1h 15m,Adventure
+Huaquero Tierra Maldita,None,None,None,Adventure
+Maverick from the Edge,None,None,1h 47m,Adventure
+DCLXVI,None,None,3h 20m,Adventure
+Lung ta - Cavalli al vento,None,None,None,Adventure
+Oda: Vlucht door de Eeuwen,6.4,7,None,Adventure
+The Pray,None,None,None,Adventure
+ABC Life: The Movie,None,None,1h,Adventure
+Son Though He Was: the Young Saint Francis of Assisi,None,None,None,Adventure
+Road to Paradise,None,None,1h 16m,Adventure
+The Pizza Guys,None,None,1h 29m,Adventure
+"Montserrat, Integral 107",None,None,1h 25m,Adventure
+The Bigfoot prophecy 2,None,None,1h 58m,Adventure
+The Road Long,None,None,None,Adventure
+Okhota na russkogo geniya,5.1,12,1h 11m,Adventure
+EP Break the Multiverse,None,None,1h 16m,Adventure
+Ba Jie,None,None,None,Adventure
+Deux hommes un destin,None,None,1h 34m,Adventure
+Amphibia: Endgame,None,None,1h 24m,Adventure
+Purgatorio,None,None,59m,Adventure
+Lajjpal,9.0,8,4h 12m,Adventure
+I'm Professional,3.7,8,1h 35m,Adventure
+"Le Vrai Kaizen (Vod // La Cacabox Monte L'everest - Grimkujow, Potatoz, Mnkway, Diego, Hugo)",None,None,1h 3m,Adventure
+Summer on a solitary beach,None,None,1h 40m,Adventure
+Mult v kino. Vypusk # 168: Idyom na piknik!,None,None,51m,Adventure
+Five Nights at TK's: The Curse of TK,None,None,1h,Adventure
+Geo Magazine,None,None,None,Adventure
+Marraia,None,None,1h 17m,Adventure
+Non succederà più,None,None,1h 30m,Adventure
+Psycho Rhythm,None,None,None,Adventure
+Lost & Found,None,None,None,Adventure
+"Salem, SOS-ed!",None,None,1h 31m,Adventure
+Hasta Que Nos Encontremos De Neuvo,None,None,1h 30m,Adventure
+TAÏ: 33 jours dans la dernière forêt d'Afrique de l'Ouest,None,None,None,Adventure
+Melissa's Birthday,None,None,None,Adventure
+Boyz,None,None,2h 12m,Adventure
+"Women, Dreams and Bread",None,None,None,Adventure
+Pueblo En Llamas,None,None,1h 22m,Adventure
+PW V: Tears of the Fallen,8.2,11,1h,Adventure
+Beyaz Zenciler: Yapim Asamasi,8.6,5,55m,Adventure
+Kamilota,None,None,None,Adventure
+My World 2,None,None,None,Adventure
+The Moon Asks for Help,None,None,1h 36m,Adventure
+Bragow,None,None,2h,Adventure
+The Same Picture Group Holiday Special,None,None,55m,Adventure
+Commonheart. from A Childish Mind.,None,None,1h 23m,Adventure
+Demibook,None,None,None,Adventure
+Meorisogeul,None,None,1h 59m,Adventure
+The multiverse arc,None,None,1h 22m,Adventure
+Soul Trekkers,None,None,None,Adventure
+NJPW SMP: The Movie,None,None,50m,Adventure
+The Embers of Domsheria,None,None,1h 35m,Adventure
+The Brofessors Return,None,None,1h 18m,Adventure
+My New Country Biacuimyneco,None,None,1h 35m,Adventure
+I V Y: World of the Future,None,None,13+,Adventure
+Across America,None,None,48m,Adventure
+Dream of Resurrection,None,None,1h 35m,Adventure
+Cobrazilla,None,None,1h,Adventure
+Línguas de Fogo,None,None,1h 9m,Adventure
+Spin War,None,None,1h 44m,Adventure
+El Regreso Del Campero 3,None,None,1h 21m,Adventure
+Mult v kino. Vypusk # 174. Dobrye dela!,None,None,48m,Adventure
+SITV Presents: Tabsentia,None,None,1h 20m,Adventure
+The Redemption of Zack & Heather (Remastered),None,None,13+,Adventure
+Mystic Odyssey,None,None,2h 24m,Adventure
+Mouse Tales Movie 2,None,None,1h,Adventure
+New Day,None,None,48m,Adventure
+Project Block,None,None,1h 6m,Adventure
+Les Nouveaux Candides,None,None,None,Adventure
+Isola degli sguardi,None,None,None,Adventure
+The Road to OVC Champions,None,None,1h 2m,Adventure
+7 Day Fast,None,None,50m,Adventure
+The Long Quiet,9.4,5,1h 34m,Adventure
+Sur les Chemins du Temps,None,None,None,Adventure
+"Katarina, ili Doch razboynika",None,None,2h 37m,Adventure
+Tripping,None,None,None,Adventure
+Once upon a bridge in Vietnam,None,None,52m,Adventure
+Kleurenpalet 3: De Definitie Van Het Multiversum,None,None,1h 17m,Adventure
+The Final Kick,None,None,10m,Adventure
+Anywhere Wherever,None,None,46m,Adventure
